@@ -28,4 +28,4 @@ Additionally, if you chose Bard class, on level 2 and above Jack of All Trades b
 
 **What is 'controll'?**
 
-As you may have notices, there are two files with "_Controll". These files contain additional page at the very end of the file. It is a controll page, where you can add external bonuses to your statistics like Saving Throws, Initiative (Like 'Alert' feat) and others. This is not possible in standard version due to general automation of all calculations. This additional page only serves to correct those bonuses and does not need to be printed.
+As you may have notice, there are two files with "_Controll". These files contain additional page at the very end of the file. It is a controll page, where you can add external bonuses to your statistics like Saving Throws, Initiative (Like 'Alert' feat) and others. This is not possible in standard version due to general automation of all calculations. This additional page only serves to correct those bonuses and does not need to be printed.
